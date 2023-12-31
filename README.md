@@ -25,6 +25,6 @@ Dependencies
 - This game relies on the _github.com/gdamore/tcell_ package for terminal-based graphics and user input handling.
 
 ---
-Game Snippet
-<img src="img_1.png" alt="img_1.png" width="30%"/>
-<img src="img.png" alt="img.png" width="30%"/>
+###### Game Snippet
+<img src="img_1.png" alt="img_1.png" width="50%"/>
+<img src="img.png" alt="img.png" width="50%"/>
